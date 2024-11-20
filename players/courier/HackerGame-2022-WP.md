@@ -195,7 +195,7 @@ MTIzOjxpbWcgc3JjPTEgb25lcnJvcj0iZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3Njb3JlJykuaW5u
 
 ![rclone-2](./assets/rclone-2.png)
 
-提到这种方式是不安全的，同时`Rclone`是开源的，应该能够查看源码编写解密脚本（不会Go语言，达咩！），所以直接找了别人写好的脚本：https://github.com/julianbrost/rclone-unobscure，按说明运行就可以了
+提到这种方式是不安全的，同时`Rclone`是开源的，应该能够查看源码编写解密脚本（不会Go语言，达咩！），所以直接找了别人写好的脚本：https://github.com/julianbrost/rclone-unobscure ，按说明运行就可以了
 
 
 
